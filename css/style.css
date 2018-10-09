@@ -11,9 +11,8 @@ body {
 }
 
 h1 {
-    font-family: 'Source Sans Pro', sans-serif;
     color: #FC5130;
-    font-size: 15em;
+    font-size: 15vw;
     text-shadow: 2px 2px #E64A2C;
     /*
     position: relative;
@@ -21,11 +20,17 @@ h1 {
 */
 }
 
+h1,
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 #wrapper {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 #wrapper {
