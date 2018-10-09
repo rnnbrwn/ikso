@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #ebebeb;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #F45B69;
+    font-size: 3em;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
