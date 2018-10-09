@@ -14,8 +14,11 @@ h1 {
     font-family: 'Source Sans Pro', sans-serif;
     color: #FC5130;
     font-size: 15em;
+    text-shadow: 2px 2px #E64A2C;
+    /*
     position: relative;
     left: 55px;
+*/
 }
 
 #wrapper {
