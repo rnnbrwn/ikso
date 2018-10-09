@@ -13,7 +13,7 @@ body {
 h1 {
     color: #FC5130;
     font-size: 15vw;
-    text-shadow: 2px 2px #E64A2C;
+    text-shadow: 0.1vw 0.1vw #E64A2C;
     /*
     position: relative;
     left: 55px;
