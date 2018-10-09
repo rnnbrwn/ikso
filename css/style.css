@@ -12,12 +12,18 @@ body {
 
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #F45B69;
-    font-size: 3em;
+    color: #383D3B;
+    font-size: 15em;
 }
 
-body {
+#wrapper {
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#wrapper {
+    background-color: ##ebebeb;
+    background-image: -webkit-linear-gradient(135deg, #EEE5E9 50%, #7C7C7C 50%);
 }
