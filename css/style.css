@@ -12,7 +12,7 @@ body {
 
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    color: #383D3B;
+    color: #FC5130;
     font-size: 15em;
 }
 
@@ -25,5 +25,5 @@ h1 {
 
 #wrapper {
     background-color: ##ebebeb;
-    background-image: -webkit-linear-gradient(135deg, #EEE5E9 50%, #7C7C7C 50%);
+    background-image: -webkit-linear-gradient(135deg, #FAFAFF 50%, #EEF0F2 50%);
 }
