@@ -11,9 +11,9 @@ body {
 }
 
 h1 {
-    color: #FC5130;
+    color: #1B2F33;
     font-size: 15vw;
-    text-shadow: 0.1vw 0.1vw #E64A2C;
+    text-shadow: 0.1vw 0.1vw #000;
     /*
     position: relative;
     left: 55px;
@@ -34,6 +34,6 @@ p {
 }
 
 #wrapper {
-    background-color: ##ebebeb;
+    background-color: #ebebeb;
     background-image: -webkit-linear-gradient(140deg, #FAFAFF 50%, #EEF0F2 50%);
 }
